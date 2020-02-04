@@ -1,0 +1,10 @@
+
+https://github.com/uwaifo/bookstore_items_api.git
+https://github.com/uwaifo/bookstore_users_api.git
+https://github.com/uwaifo/bookstore_oauth_api.git
+
+
+
+git@github.com:uwaifo/bookstore_users_api.git
+git@github.com:uwaifo/bookstore_oauth_api.git
+git@github.com:uwaifo/bookstore_items_api.git
